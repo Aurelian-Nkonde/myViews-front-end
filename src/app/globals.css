@@ -1,0 +1,8 @@
+@import "tailwind-preset-mantine";
+@import "./theme.css";
+
+@theme {
+  --font-roboto: var(--font-roboto);
+  --font-montserrat: var(--font-montserrat);
+  --font-josefin: var(--font-josefin);
+}
